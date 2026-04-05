@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+openai
+python-dotenv
+httpx
+fpdf2
+streamlit-lottie
